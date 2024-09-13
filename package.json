@@ -1,0 +1,21 @@
+{
+  "name": "in.orbit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docker-up": "cd server && docker-compose up -d",
+    "docker-down": "cd server && docker-compose down -v",
+    "dev": "concurrently \"npm run dev --workspace=server\" \"npm run dev --workspace=client\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "./client",
+    "./server"
+  ],
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}

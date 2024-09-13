@@ -4,7 +4,7 @@ Gerenciador de metas semanais utilizando React.js, Fastify, DrizzleORM, PostgreS
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,,npm,react,vite,nodejs,docker,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,tailwind,npm,react,vite,nodejs,docker,postgres)](https://skillicons.dev)
 
 ## Como contribuir
 

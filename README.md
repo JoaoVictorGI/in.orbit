@@ -24,6 +24,10 @@ Gerenciador de metas semanais utilizando React.js, Fastify, DrizzleORM, PostgreS
    ```shell
    npm run docker-up
    ```
+3. Inicie o projeto como desenvolvedor:
+   ```shell
+   npm run dev
+   ```
 
 ## Como compilar e visualizar
 
